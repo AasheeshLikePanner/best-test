@@ -1,0 +1,36 @@
+Week of January 20, 2026
+Working hours: 8:30 AM - 6:00 PM
+Timezone: America/New_York
+
+Monday Jan 20, 2026
+- 8:30 AM - 9:00 AM: Early Standup
+- 9:00 AM - 9:30 AM: Transition Meeting
+- 9:30 AM - 10:30 AM: Sprint Planning
+- 10:00 AM - 11:00 AM: Architecture Review
+- 11:00 AM - 12:00 PM: Deep Work Block
+- 12:00 PM - 1:00 PM: Lunch
+- 1:00 PM - 3:00 PM: Client Workshop
+- 2:30 PM - 4:00 PM: Interview Loop
+- 4:00 PM - 4:01 PM: Micro-Status
+- 4:02 PM - 4:03 PM: Another Micro
+- 4:04 PM - 4:05 PM: Yet Another Micro
+- 5:30 PM - 7:00 PM: Extended Team Event
+
+Tuesday Jan 21, 2026
+- 12:00 AM - 8:30 AM: All Night Maintenance
+- 8:30 AM - 9:30 AM: Recovery Sync
+- 10:00 AM - 10:01 AM: One Minute Standup
+- 10:02 AM - 10:03 AM: Another One Minute
+- 10:04 AM - 10:05 AM: And Another
+- 5:00 PM - 6:00 PM: Wrap-up
+
+Wednesday Jan 22, 2026
+- No events
+
+Thursday Jan 23, 2026
+- 9:00 AM - 5:00 PM: All-Day Offsite
+
+Friday Jan 24, 2026
+- 8:00 AM - 9:00 AM: Before Hours
+- 9:00 AM - 10:00 AM: Regular Meeting
+- 6:00 PM - 7:00 PM: After Hours

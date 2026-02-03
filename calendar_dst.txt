@@ -1,0 +1,27 @@
+Week of November 1, 2026
+Working hours: 9:00 AM - 5:00 PM
+Timezone: America/New_York
+
+Sunday Nov 1, 2026
+- 1:00 AM - 1:30 AM: Pre-DST Event
+- 1:00 AM - 1:30 AM: Post-DST Event
+
+Monday Nov 2, 2026
+- 9:00 AM - 10:00 AM: Standup
+- 2:00 PM - 3:00 PM: Sync
+
+Tuesday Nov 3, 2026
+- 9:00 AM - 5:00 PM: Election Day All-Hands
+
+Wednesday Nov 4, 2026
+- 12:00 AM - 11:59 PM: Thanksgiving Prep
+
+Thursday Nov 5, 2026
+- 9:00 AM - 12:00 PM: Morning Sessions
+- 11:30 AM - 2:30 PM: Working Lunch
+- 2:00 PM - 5:00 PM: Afternoon Sessions
+
+Friday Nov 6, 2026
+- 9:00 AM - 9:00 AM: Zero-Minute Event Start/End
+- 9:00 AM - 10:00 AM: Regular
+- 9:30 AM - 9:30 AM: Another Zero-Minute

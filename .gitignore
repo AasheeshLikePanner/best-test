@@ -3,6 +3,3 @@ node_modules
 DEMO.md
 *.md.tmp
 stress_test_report.md
-calendar_chaos.txt
-calendar_dst.txt
-calendar_minimal.txt
